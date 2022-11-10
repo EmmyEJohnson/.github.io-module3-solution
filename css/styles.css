@@ -14,15 +14,15 @@ div section {
     padding: 10px;
 }
 #section-1{
-    background-color: #FDE170;
+    background-color: rgba(231, 226, 2, 0.5);
 }
 
 #section-2 {
-    background-color: #F76565;
+    background-color: rgba(255, 0, 0, 0.3);
 }
 
 #section-3 {
-    background-color: #84F8C2;
+    background-color: rgba(9, 126, 1, 0.3);
 }
 
 #text > h3 {
